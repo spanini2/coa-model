@@ -20,7 +20,7 @@ Then run the following:
 
 ```bash
 export OUTPUT_DIR=path/to/your/output/file
-export NUM_TRIALS=[# of trials]
+export NUM_TRIALS=[number of trials]
 export GPUS=[CUDA numbers of gpus (i.e 4,5)]
 
 python eval.py --output_dir=$OUTPUT_DIR --num_trials=$NUM_TRIALS --gpus=GPUS
