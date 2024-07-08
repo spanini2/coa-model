@@ -1,7 +1,6 @@
 import argparse
 import agents
 import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "4" # GPU(s) that the model will load on to/forward pass
 import prompts
 import query_generator
 from tqdm import tqdm
@@ -11,6 +10,7 @@ from datetime import datetime
 class Executor():
     """Loads COA queries and stores responses"""
     def __init__(self) -> None:
+        os.environ["CUDA_VISIBLE_DEVICES"] = args.gpus # GPU(s) that the model will load on to/forward pass
         self.agent=agents.GemmaAgent()
         self.qgenerator=query_generator.QueryGenerator()
         self.num_trials=args.num_trials
@@ -58,6 +58,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("--num_trials", default=1, type=int)
     parser.add_argument("--output_dir", default="/home/salban/CoA/simulation/output/", type=str)
+    parser.add_argument("--gpus")
     args = parser.parse_args()
 
     executor = Executor()
