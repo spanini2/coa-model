@@ -46,6 +46,7 @@ if __name__ == '__main__':
 
             plt.arrow(0,0,0,0, color='orange', head_width=0, length_includes_head=True, label="Attack Move")
             plt.arrow(0,0,0,0, color='purple', head_width=0, length_includes_head=True, label="Engage Target")
+            plt.scatter(0, 0, color='green', marker="8", s=0, alpha=0, label="Stand Location")
 
 
             tasks=[]
