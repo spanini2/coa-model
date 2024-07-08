@@ -5,15 +5,17 @@ import argparse
 import tqdm
 import os
 from textwrap import wrap
+import glob
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("--input_dir", default="/home/salban/CoA/simulation/output/20_units", type=str)
     parser.add_argument("--output_dir", default="/home/salban/CoA/simulation/output/20_units/visual", type=str)
     args = parser.parse_args()
+    input_list=list(glob.glob(os.path.join(args.input_dir, "generated_plan_*")))
 
 
-    for i in tqdm.trange(100):
+    for i in tqdm.trange(len(input_list)):
         try:
             f = open(os.path.join(args.input_dir, f"generated_plan_{i}.json"))
             resp = json.load(f)
