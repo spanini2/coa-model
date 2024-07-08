@@ -1,0 +1,1902 @@
+[
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_15.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_41.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_37.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_96.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_36.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            false
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_9.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_10.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_12.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_64.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_90.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_87.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_68.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_5.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_84.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_58.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_48.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_29.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_11.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_31.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_27.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_13.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_42.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            false,
+            true,
+            false,
+            true,
+            true,
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_43.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_65.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_86.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_76.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_8.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            false,
+            false,
+            true,
+            true,
+            true,
+            true,
+            false
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_39.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_70.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_79.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_3.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_63.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_25.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_19.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_67.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_2.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_49.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_21.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_97.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_54.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_59.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_88.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_6.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_94.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_57.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_20.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_85.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_33.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_81.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_92.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_72.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_95.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_73.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_28.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_77.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_62.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_75.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_93.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_52.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_32.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_60.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_16.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_55.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_89.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_61.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_40.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_46.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_47.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_38.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_91.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_74.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_53.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_66.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            true,
+            false,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_7.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_82.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_98.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_35.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_26.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_50.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_1.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_0.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_44.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_80.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_23.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_83.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_14.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_22.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_34.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            false,
+            true,
+            true,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_30.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_24.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_99.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_17.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_4.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_71.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_45.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_51.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_18.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_69.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_78.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "input_file": "/home/salban/CoA/simulation/output/20_units/generated_plan_56.json",
+        "p_id": 1.0,
+        "p_type": 1.0,
+        "p_alliance": 1.0,
+        "p_pos": 1.0,
+        "movement_check_arr": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    }
+]

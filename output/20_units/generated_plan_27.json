@@ -1,0 +1,295 @@
+{
+    "model_name": "gemma2:27b-instruct",
+    "input_locations": [
+        {
+            "unit_id": 1,
+            "unit_type": "Armor",
+            "alliance": "Friendly",
+            "position": {
+                "x": 49,
+                "y": 146
+            }
+        },
+        {
+            "unit_id": 2,
+            "unit_type": "Artillery",
+            "alliance": "Friendly",
+            "position": {
+                "x": 20,
+                "y": 42
+            }
+        },
+        {
+            "unit_id": 3,
+            "unit_type": "Artillery",
+            "alliance": "Friendly",
+            "position": {
+                "x": 40,
+                "y": 151
+            }
+        },
+        {
+            "unit_id": 4,
+            "unit_type": "Artillery",
+            "alliance": "Friendly",
+            "position": {
+                "x": 72,
+                "y": 183
+            }
+        },
+        {
+            "unit_id": 5,
+            "unit_type": "Armor",
+            "alliance": "Friendly",
+            "position": {
+                "x": 59,
+                "y": 178
+            }
+        },
+        {
+            "unit_id": 6,
+            "unit_type": "Artillery",
+            "alliance": "Friendly",
+            "position": {
+                "x": 42,
+                "y": 121
+            }
+        },
+        {
+            "unit_id": 7,
+            "unit_type": "Aviation",
+            "alliance": "Friendly",
+            "position": {
+                "x": 60,
+                "y": 10
+            }
+        },
+        {
+            "unit_id": 8,
+            "unit_type": "Aviation",
+            "alliance": "Friendly",
+            "position": {
+                "x": 46,
+                "y": 172
+            }
+        },
+        {
+            "unit_id": 9,
+            "unit_type": "Aviation",
+            "alliance": "Friendly",
+            "position": {
+                "x": 56,
+                "y": 54
+            }
+        },
+        {
+            "unit_id": 10,
+            "unit_type": "Artillery",
+            "alliance": "Friendly",
+            "position": {
+                "x": 2,
+                "y": 54
+            }
+        },
+        {
+            "unit_id": 11,
+            "unit_type": "Aviation",
+            "alliance": "Hostile",
+            "position": {
+                "x": 108,
+                "y": 155
+            }
+        },
+        {
+            "unit_id": 12,
+            "unit_type": "Aviation",
+            "alliance": "Hostile",
+            "position": {
+                "x": 107,
+                "y": 152
+            }
+        },
+        {
+            "unit_id": 13,
+            "unit_type": "Armor",
+            "alliance": "Hostile",
+            "position": {
+                "x": 151,
+                "y": 100
+            }
+        },
+        {
+            "unit_id": 14,
+            "unit_type": "Aviation",
+            "alliance": "Hostile",
+            "position": {
+                "x": 166,
+                "y": 31
+            }
+        },
+        {
+            "unit_id": 15,
+            "unit_type": "Armor",
+            "alliance": "Hostile",
+            "position": {
+                "x": 166,
+                "y": 186
+            }
+        },
+        {
+            "unit_id": 16,
+            "unit_type": "Artillery",
+            "alliance": "Hostile",
+            "position": {
+                "x": 166,
+                "y": 152
+            }
+        },
+        {
+            "unit_id": 17,
+            "unit_type": "Artillery",
+            "alliance": "Hostile",
+            "position": {
+                "x": 199,
+                "y": 108
+            }
+        },
+        {
+            "unit_id": 18,
+            "unit_type": "Aviation",
+            "alliance": "Hostile",
+            "position": {
+                "x": 164,
+                "y": 31
+            }
+        },
+        {
+            "unit_id": 19,
+            "unit_type": "Artillery",
+            "alliance": "Hostile",
+            "position": {
+                "x": 194,
+                "y": 103
+            }
+        },
+        {
+            "unit_id": 20,
+            "unit_type": "Aviation",
+            "alliance": "Hostile",
+            "position": {
+                "x": 185,
+                "y": 5
+            }
+        }
+    ],
+    "start": "07/03/2024, 10:44:56",
+    "end": "07/03/2024, 10:46:03",
+    "model_output": {
+        "coa_id_0": {
+            "overview": "This COA utilizes a two-pronged approach to cross the river and engage the enemy. The first prong, consisting of Armor units 1 and 5, will cross Bridge Lion and engage hostile Armor unit 13. The second prong, consisting of the remaining Armor and Artillery units, will cross Bridge Tiger and engage the remaining hostile forces. Aviation units will provide air support throughout the operation. This COA is feasible as it leverages the strengths of each unit type, is acceptable as it minimizes risk while maximizing firepower, is suitable for the terrain and enemy disposition, and is distinguishable from other potential COAs.",
+            "name": "Two-Pronged Assault",
+            "task_allocation": [
+                {
+                    "unit_id": 1,
+                    "unit_type": "Armor",
+                    "alliance": "Friendly",
+                    "position": {
+                        "x": 49,
+                        "y": 146
+                    },
+                    "command": "attack_move_unit(1, 100, 50); attack_move_unit(1, 151, 100); engage_target_unit(1, 13)"
+                },
+                {
+                    "unit_id": 2,
+                    "unit_type": "Artillery",
+                    "alliance": "Friendly",
+                    "position": {
+                        "x": 20,
+                        "y": 42
+                    },
+                    "command": "attack_move_unit(2, 100, 150); engage_target_unit(2, 16)"
+                },
+                {
+                    "unit_id": 3,
+                    "unit_type": "Artillery",
+                    "alliance": "Friendly",
+                    "position": {
+                        "x": 40,
+                        "y": 151
+                    },
+                    "command": "attack_move_unit(3, 100, 150); engage_target_unit(3, 19)"
+                },
+                {
+                    "unit_id": 4,
+                    "unit_type": "Artillery",
+                    "alliance": "Friendly",
+                    "position": {
+                        "x": 72,
+                        "y": 183
+                    },
+                    "command": "attack_move_unit(4, 100, 150); engage_target_unit(4, 17)"
+                },
+                {
+                    "unit_id": 5,
+                    "unit_type": "Armor",
+                    "alliance": "Friendly",
+                    "position": {
+                        "x": 59,
+                        "y": 178
+                    },
+                    "command": "attack_move_unit(5, 100, 50); attack_move_unit(5, 151, 100); engage_target_unit(5, 13)"
+                },
+                {
+                    "unit_id": 6,
+                    "unit_type": "Artillery",
+                    "alliance": "Friendly",
+                    "position": {
+                        "x": 42,
+                        "y": 121
+                    },
+                    "command": "attack_move_unit(6, 100, 150); engage_target_unit(6, 19)"
+                },
+                {
+                    "unit_id": 7,
+                    "unit_type": "Aviation",
+                    "alliance": "Friendly",
+                    "position": {
+                        "x": 60,
+                        "y": 10
+                    },
+                    "command": "engage_target_unit(7, 11); engage_target_unit(7, 12)"
+                },
+                {
+                    "unit_id": 8,
+                    "unit_type": "Aviation",
+                    "alliance": "Friendly",
+                    "position": {
+                        "x": 46,
+                        "y": 172
+                    },
+                    "command": "engage_target_unit(8, 14); engage_target_unit(8, 18)"
+                },
+                {
+                    "unit_id": 9,
+                    "unit_type": "Aviation",
+                    "alliance": "Friendly",
+                    "position": {
+                        "x": 56,
+                        "y": 54
+                    },
+                    "command": "engage_target_unit(9, 20); engage_target_unit(9, 11)"
+                },
+                {
+                    "unit_id": 10,
+                    "unit_type": "Artillery",
+                    "alliance": "Friendly",
+                    "position": {
+                        "x": 2,
+                        "y": 54
+                    },
+                    "command": "attack_move_unit(10, 100, 150); engage_target_unit(10, 16)"
+                }
+            ]
+        }
+    }
+}
