@@ -3,9 +3,9 @@ import argparse
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--output_dir", default="/home/salban/CoA/simulation/output/20_units/20_units_post/post.json", type=str)
+    parser.add_argument("--input_dr", default="/home/salban/CoA/simulation/output/20_units/20_units_post/post.json", type=str)
     args=parser.parse_args()
-    post_dict=json.load(open(args.output_dir))
+    post_dict=json.load(open(args.input_dir))
     id_sum=0
     type_sum=0
     alliance_sum=0
