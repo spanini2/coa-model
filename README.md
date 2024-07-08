@@ -65,3 +65,7 @@ export INPUT_DIR=path/to/your/input/file
 python visual.py --output_dir=$OUTPUT_DIR --input_dir=$INPUT_DIR
 ```
 
+## Examples
+
+Example model outputs, a postprocess file and visuals are in the output/20_units folder
+
