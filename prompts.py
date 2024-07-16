@@ -43,7 +43,7 @@ Grounded units (all units but Aviation) are only able to cross the river at eith
 I need to generate one military course of action, where each unit can perform multiple of the above 3 commands, to accomplish the following mission objective while staying within the mentioned constraints:
 
 Move friendly forces from the west side of the river to the east via multiple bridges, destroy all hostile forces, and ultimately seize objective OBJ Lion
-East at the top right of the map (coordinates x: 175, y: 175).
+East at the bottom right of the map (coordinates x: 175, y: 175).
 
 The available Friendly and Hostile forces with their respective identification tags, types, and position are defined in the following JSON object:
 

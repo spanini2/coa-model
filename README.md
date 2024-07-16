@@ -10,6 +10,8 @@ Then install all required modules by running:
 pip install -r requirements.txt
 ```
 
+You may get an error regarding torch, please refer to https://pytorch.org/get-started/locally/ in order to download the correct torch version specific to your system
+
 ## Running 
 
 First create a Hugging Face account and setup a user access token in order to access Gemma 2 (https://huggingface.co/docs/hub/security-tokens)
