@@ -1,8 +1,9 @@
 import random
 
 class QueryGenerator:
-    def __init__(self) -> None:
+    def __init__(self, input_seed=5514) -> None:
         self.unit_types = ["Armor", "Artillery", "Aviation"]
+        random.seed(input_seed)
             
     def generate_troops(self):
         troops = []
