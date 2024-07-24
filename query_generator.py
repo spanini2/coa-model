@@ -5,9 +5,8 @@ class QueryGenerator:
         self.unit_types = ["Armor", "Artillery", "Aviation"]
         random.seed(input_seed)
             
-    def generate_troops(self):
+    def generate_troops(self, num_troops=20):
         troops = []
-        num_troops=20
         for id in range(int(num_troops//2)):
             troops.append({
                 'unit_id': id+1,

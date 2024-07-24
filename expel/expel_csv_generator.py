@@ -11,8 +11,8 @@ from query_generator import QueryGenerator
 # NUM_ROWS = 100
 
 # Use these constants for the small sample
-CSV_FILE = 'expel/coa-query-small-sample.csv'
-NUM_ROWS = 10
+CSV_FILE = 'expel/coa-query-1friendly-1enemy.csv'
+NUM_ROWS = 1
 
 # Initialize a QueryGenerator object
 qg = QueryGenerator()
@@ -21,7 +21,7 @@ qg = QueryGenerator()
 queries = []
 for _ in range(NUM_ROWS):
     question = "Can you help me generate a military course of action given the support information?"
-    supporting_info = qg.generate_troops()
+    supporting_info = qg.generate_troops(num_troops=2)
 
     # Use this line for the big sample
     # queries.append([question, supporting_info])
