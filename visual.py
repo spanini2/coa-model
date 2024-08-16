@@ -35,16 +35,16 @@ if __name__ == '__main__':
             plt.scatter([x for _, x, y in friendly_armor], [y for _, x, y in friendly_armor], color='cyan', marker='s', s=100, label="Friendly Armor")
             plt.scatter([x for _, x, y in hostile_armor], [y for _, x, y in hostile_armor], color='lightcoral', marker='s', s=100, label="Hostile Aviation")
             plt.scatter([x for _, x, y in hostile_artillery], [y for _, x, y in hostile_artillery], color='lightcoral', marker='o', s=100, label="Hostile Artillery")
-            plt.scatter([x for _, x, y in hostile_aviation], [y for _, x, y in hostile_aviation], color='lightcoral', marker='^', s=100, label="Hostile Armos")
+            plt.scatter([x for _, x, y in hostile_aviation], [y for _, x, y in hostile_aviation], color='lightcoral', marker='^', s=100, label="Hostile Armor")
 
             for unit in resp['input_locations']:
                 plt.annotate(unit['unit_id'], (unit['position']['x'], unit['position']['y']))
 
             plt.axvline(x=100, color='blue', linestyle='--', linewidth=2, label="River")
             plt.plot([98, 102], [150, 150], color='brown', linewidth=8, label="Bridge")
-            plt.annotate("BRIGE TIGER", (100, 150))
+            plt.annotate("BRIDGE TIGER", (100, 150))
             plt.plot([98, 102], [50, 50], color='brown', linewidth=8)
-            plt.annotate("BRIGE LION", (100, 50))
+            plt.annotate("BRIDGE LION", (100, 50))
 
             plt.arrow(0,0,0,0, color='orange', head_width=0, length_includes_head=True, label="Attack Move")
             plt.arrow(0,0,0,0, color='purple', head_width=0, length_includes_head=True, label="Engage Target")
